@@ -49,7 +49,7 @@ B. import scipy.linalg
 C. from scipy.linalg import my_inv
 D. from scipy.linalg import my_inv
 E. Ninguna de las anteriores
-respuesta: v 
+respuesta: E
 Numpy es un gran paquete para manejo aritmetico.  Numpy contiene elementos de difrentes tipos.  Si uno quiere construir una lista probablemente
 espera que no cambien y sean de manera homogenea (cohersion).  Los elementos de +, -, *, / tienen diferentes tipos de significados si se usan en
 listas o se usan en arreglos de numpy, por ejemplo
